@@ -1,9 +1,10 @@
 # Hi, I'm Seb 👋
 
-- 🛠 Python, PHP, JS, Vue, MySQL, Laravel, Swift, Docker, CSS, Photoshop, Lightroom, and InDesign.
+- 🧑‍🎓 Student at Cardiff University
+- 🧑‍💼 Currently on placement as a Software Engineer
 - 📫 [LinkedIn](https://linkedin.com/in/sebbjose)
 - 🌐 [Website](https://sebjo.se)
-- 🧑‍💼 Currently working as a Software Engineer
+- 🛠 Python, PHP, JS, Vue, MySQL, Laravel, Swift, Docker, CSS, Photoshop, Lightroom, and InDesign.
 
 <!--
 **sebdroid/sebdroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

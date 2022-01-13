@@ -1,6 +1,6 @@
 # Hi, I'm Seb 👋
 
-- 🧑‍🎓 Student at Cardiff University
+- 🧑‍🎓 Student at [Cardiff University](https://cardiff.ac.uk)
 - 🧑‍💼 Currently on placement as a Software Engineer
 - 📫 [LinkedIn](https://linkedin.com/in/sebbjose)
 - 🌐 [Website](https://sebjo.se)
